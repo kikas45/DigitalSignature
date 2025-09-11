@@ -32,12 +32,9 @@ It delivers **seamless media playback, smart syncing, and rock-solid uptime** â€
   <em>Seamless media playback on WebView</em>
 </p>
 
----
-
-## ðŸŽ¬ Demo Video
-
 <p align="center">
-  <video src="https://github.com/kikas45/DigitalSignature/raw/refs/heads/main/example%20video.mp4" controls width="600"></video>
+  <img src="https://github.com/kikas45/DigitalSignature/blob/main/WhatsApp%20Image%202025-09-11%20at%2011.51.41%20AM.jpeg?raw=true" alt="Live Stream Floating Window" width="600"/><br/>
+  <em>Live stream window floating over scheduled media</em>
 </p>
 
 ---
