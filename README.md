@@ -37,9 +37,7 @@ It delivers **seamless media playback, smart syncing, and rock-solid uptime** �
 ## 🎬 Demo Video
 
 <p align="center">
-  <a href="https://github.com/kikas45/DigitalSignature/raw/refs/heads/main/example%20video.mp4">
-    ▶️ Watch Demo Video
-  </a>
+  <video src="https://github.com/kikas45/DigitalSignature/raw/refs/heads/main/example%20video.mp4" controls width="600"></video>
 </p>
 
 ---
@@ -67,6 +65,13 @@ It delivers **seamless media playback, smart syncing, and rock-solid uptime** �
 Currently deployed in production at:  
 - **Lafarge** — plant-wide digital signage  
 - **Parallax Bank** — secure branch-wide media scheduling  
+
+---
+
+## 👨‍💻 Developer
+
+Developed by **Pius Powella David**  
+*(for Moore Advice Limited)*
 
 ---
 
