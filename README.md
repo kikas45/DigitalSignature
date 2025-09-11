@@ -18,18 +18,18 @@ It delivers **seamless media playback, smart syncing, and rock-solid uptime** �
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/dashboard.png" alt="Dashboard" width="600"/><br/>
+  <img src="https://github.com/kikas45/DigitalSignature/blob/main/WhatsApp%20Image%202025-09-11%20at%2011.51.39%20AM%20(1).jpeg?raw=true" alt="Dashboard" width="600"/><br/>
   <em>Dashboard with sync manager and controls</em>
 </p>
 
 <p align="center">
-  <img src="screenshots/playback.png" alt="Media Playback" width="600"/><br/>
-  <em>WebView media playback with overlay live stream</em>
+  <img src="https://github.com/kikas45/DigitalSignature/blob/main/Downloading%20Files.jpeg?raw=true" alt="Downloading Files" width="600"/><br/>
+  <em>Sync process: downloading and updating files</em>
 </p>
 
 <p align="center">
-  <img src="screenshots/sync-manager.png" alt="Sync Manager" width="600"/><br/>
-  <em>Multiple sync methods — Parsing, ZIP, API</em>
+  <img src="https://github.com/kikas45/DigitalSignature/blob/main/display.jpeg?raw=true" alt="Media Playback" width="600"/><br/>
+  <em>Seamless media playback on WebView</em>
 </p>
 
 ---
@@ -37,9 +37,15 @@ It delivers **seamless media playback, smart syncing, and rock-solid uptime** �
 ## 🎬 Demo Video
 
 <p align="center">
-  <video src="screenshots/demo.mp4" width="600" controls></video><br/>
+  <video src="https://github.com/kikas45/DigitalSignature/raw/refs/heads/main/example%20video.mp4" width="600" controls></video><br/>
   <em>Quick demo of Sync2App in action</em>
 </p>
+
+---
+
+## 📥 Download
+
+👉 [**Download Sync2App APK**](https://github.com/kikas45/DigitalSignature/raw/refs/heads/main/Sync2Ap_STP10.apk)
 
 ---
 
@@ -52,12 +58,6 @@ It delivers **seamless media playback, smart syncing, and rock-solid uptime** �
 - **Dagger Hilt**
 - **Firebase / Google Cloud APIs**
 - **Node.js (Express) APIs**
-
----
-
-## 📥 Download
-
-👉 [**Download the latest Sync2App APK**](https://github.com/kikas45/DigitalSignature/releases/latest)  
 
 ---
 
