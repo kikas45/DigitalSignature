@@ -37,8 +37,9 @@ It delivers **seamless media playback, smart syncing, and rock-solid uptime** �
 ## 🎬 Demo Video
 
 <p align="center">
-  <video src="https://github.com/kikas45/DigitalSignature/raw/refs/heads/main/example%20video.mp4" width="600" controls></video><br/>
-  <em>Quick demo of Sync2App in action</em>
+  <a href="https://github.com/kikas45/DigitalSignature/raw/refs/heads/main/example%20video.mp4">
+    ▶️ Watch Demo Video
+  </a>
 </p>
 
 ---
@@ -69,8 +70,16 @@ Currently deployed in production at:
 
 ---
 
-## 📄 License
+## 📄 License & Legal
 
-This repository is for **showcasing & distribution**.  
-The APK is proprietary software owned by **Pius Powella David**.  
-Source code is not included.
+This application is the **intellectual property of Moore Advice Limited**.  
+
+- The APK is distributed for **showcasing and evaluation** only.  
+- The **source code is not provided** in this repository.  
+- **Commercial usage, resale, or deployment** without explicit written consent from **Moore Advice Limited** is strictly prohibited.  
+- For enterprise licensing, partnerships, or custom deployments, please contact:  
+
+**Moore Advice Limited**  
+📧 info@mooreadvice.com  
+
+⚠️ Unauthorized use of this application for business purposes without Moore Advice Limited’s approval may lead to **legal action**.
