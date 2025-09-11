@@ -81,7 +81,6 @@ This application is the **intellectual property of Moore Advice Limited**.
 - **Commercial usage, resale, or deployment** without explicit written consent from **Moore Advice Limited** is strictly prohibited.  
 - For enterprise licensing, partnerships, or custom deployments, please contact:  
 
-**Moore Advice Limited**  
-📧 info@mooreadvice.com  
+👉 **[www.mooreadvice.com](http://www.mooreadvice.com)**  
 
 ⚠️ Unauthorized use of this application for business purposes without Moore Advice Limited’s approval may lead to **legal action**.
