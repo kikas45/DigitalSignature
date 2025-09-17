@@ -70,7 +70,9 @@ It delivers **seamless media playback, smart syncing, and rock-solid uptime** â€
 
 This ensures we know who is using the app, as downloads are not publicly tracked.
 
-[**Sync2App APK (for evaluation)**](https://github.com/kikas45/DigitalSignature/raw/refs/heads/main/Sync2Ap_STP10.apk) *(contact required before download)*
+[**Sync2App APK (for evaluation)**]() *(contact required before download)*
+
+[](https://github.com/kikas45/DigitalSignature/raw/refs/heads/main/Sync2Ap_STP10.apk)
 
 ---
 
